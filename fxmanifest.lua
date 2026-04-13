@@ -1,0 +1,23 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'Benjamin Krishan'
+description 'BenX Development CBR250RR Unbranded Bike © 2026'
+version '1.0.0'
+repository 'www.benx.tebex.io/cbr250rr'
+documentation 'www.benx.gitbook.io/cbr250rr'
+discord 'https://discord.gg/5vH5qq6RSV'
+
+files {
+    'data/*.meta'
+}
+
+data_file 'HANDLING_FILE'                   'data/handling.meta'
+data_file 'VEHICLE_METADATA_FILE'           'data/vehicles.meta'
+data_file 'CARCOLS_FILE'                    'data/carcols.meta'
+data_file 'VEHICLE_VARIATION_FILE'          'data/carvariations.meta'
+data_file 'DLC_TEXT_FILE'                   'data/dlctext.meta'
+data_file 'CONTENT_UNLOCKING_META_FILE'     'data/contentunlocks.meta'
+
+escrow_ignore {
+    'stream/*.ytd'
+}
