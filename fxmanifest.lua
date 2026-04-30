@@ -4,7 +4,6 @@ author 'Benjamin Krishan'
 description 'BenX Development CBR250RR Unbranded Bike © 2026'
 version '1.0.0'
 repository 'https://github.com/BenjaminKrishan/CBR250RR-FiveM-Motorcycle'
-documentation 'www.benx.gitbook.io/cbr250rr'
 discord 'https://discord.gg/5vH5qq6RSV'
 
 files {
